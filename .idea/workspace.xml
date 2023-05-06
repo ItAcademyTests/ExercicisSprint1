@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3abd3bcd-9de8-4e4b-b893-4fb8fb53384e" name="Changes" comment="Exercici 3 fet">
-      <change afterPath="$PROJECT_DIR$/src/n2exercici1/EnunciatExercici1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n3exercici1/EnunciatExercici1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3abd3bcd-9de8-4e4b-b893-4fb8fb53384e" name="Changes" comment="Exercici 3 canviat el video" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +38,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ivand\IdeaProjects\ItAcademy\ExercicisSprint1\src\n1Exercici3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ivand\IdeaProjects\ItAcademy\ExercicisSprint1\src\n1Exercici3" />
     </key>
   </component>
@@ -87,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683155600812</updated>
-      <workItem from="1683155602723" duration="9361000" />
+      <workItem from="1683155602723" duration="9677000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1683393133791</created>
@@ -117,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683402899258</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Exercici 3 canviat el video">
+      <created>1683404429086</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683404429086</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +145,7 @@
     <MESSAGE value="Exercici 1 fet" />
     <MESSAGE value="Exercici 2 fet" />
     <MESSAGE value="Exercici 3 fet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercici 3 fet" />
+    <MESSAGE value="Exercici 3 canviat el video" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercici 3 canviat el video" />
   </component>
 </project>
