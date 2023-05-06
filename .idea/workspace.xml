@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3abd3bcd-9de8-4e4b-b893-4fb8fb53384e" name="Changes" comment="Exercici 3 canviat el video" />
+    <list default="true" id="3abd3bcd-9de8-4e4b-b893-4fb8fb53384e" name="Changes" comment="Exercici 3 modificat el nom del package">
+      <change afterPath="$PROJECT_DIR$/src/n2exercici1/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n2exercici1/Telefon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +15,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -44,7 +49,7 @@
       <recent name="C:\Users\ivand\IdeaProjects\ItAcademy\ExercicisSprint1\src\n1Exercici3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.n1exercici2.Main">
+  <component name="RunManager" selected="Application.n2exercici1.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="n1exercici1.Main" />
       <module name="ExercicisSprint1" />
@@ -71,8 +76,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="n2exercici1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="n2exercici1.Main" />
+      <module name="ExercicisSprint1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="n2exercici1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.n2exercici1.Main" />
         <item itemvalue="Application.n1exercici2.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -86,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683155600812</updated>
-      <workItem from="1683155602723" duration="9677000" />
+      <workItem from="1683155602723" duration="10721000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1683393133791</created>
@@ -123,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683404429086</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Exercici 3 modificat el nom del package">
+      <created>1683404525908</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683404525908</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +172,7 @@
     <MESSAGE value="Exercici 2 fet" />
     <MESSAGE value="Exercici 3 fet" />
     <MESSAGE value="Exercici 3 canviat el video" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercici 3 canviat el video" />
+    <MESSAGE value="Exercici 3 modificat el nom del package" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercici 3 modificat el nom del package" />
   </component>
 </project>
