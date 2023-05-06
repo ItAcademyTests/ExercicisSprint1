@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3abd3bcd-9de8-4e4b-b893-4fb8fb53384e" name="Changes" comment="Exercici 2 fet">
+    <list default="true" id="3abd3bcd-9de8-4e4b-b893-4fb8fb53384e" name="Changes" comment="Exercici 3 fet">
+      <change afterPath="$PROJECT_DIR$/src/n2exercici1/EnunciatExercici1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n3exercici1/EnunciatExercici1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,10 +36,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ivand/IdeaProjects/ItAcademy/ExercicisSprint1/src/n1Exercici3",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ivand\IdeaProjects\ItAcademy\ExercicisSprint1\src\n1Exercici3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.n1exercici2.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="n1exercici1.Main" />
       <module name="ExercicisSprint1" />
@@ -67,8 +74,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.n1exercici2.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -80,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683155600812</updated>
-      <workItem from="1683155602723" duration="7841000" />
+      <workItem from="1683155602723" duration="9361000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1683393133791</created>
@@ -103,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683399483087</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Exercici 3 fet">
+      <created>1683402899258</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683402899258</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +138,7 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="Exercici 1 fet" />
     <MESSAGE value="Exercici 2 fet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercici 2 fet" />
+    <MESSAGE value="Exercici 3 fet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercici 3 fet" />
   </component>
 </project>
