@@ -16,7 +16,8 @@ public class Noticia extends Redaccio {
     }
 
 
-    /*public int calcularPuntuacioNoticia(String jugador, String club, String lliga) {
+    /*public static int calcularPuntuacioNoticia(String tipusNoticia, String jugador, String club, String lliga) {
+        if ()
         return EPuntuacions.FUTBOL.getPunts() + club + lliga;
     }*/
 
