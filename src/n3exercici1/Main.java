@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Main {
 
     static Redaccio redaccio = new Redaccio();
-    //static Noticia noticia = new Noticia(titular, preu);
 
     public static void main(String[] args) {
 

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3abd3bcd-9de8-4e4b-b893-4fb8fb53384e" name="Changes" comment="Exercici 1 del nivell 3 fet una part">
-      <change afterPath="$PROJECT_DIR$/src/n3exercici1/EPreu.java" afterDir="false" />
+    <list default="true" id="3abd3bcd-9de8-4e4b-b893-4fb8fb53384e" name="Changes" comment="Exercici 1 del nivell 3 fet segona part: calcular puntuació i preu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/n3exercici1/EPuntuacions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n3exercici1/EPuntuacions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/n3exercici1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n3exercici1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/n3exercici1/Noticia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n3exercici1/Noticia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n1exercici2/Cotxe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n1exercici2/Cotxe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n1exercici2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n1exercici2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n3exercici1/Menu.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/ivand/IdeaProjects/Tecnocampus/ProfeJordiProjects/RestaurantFase4",
     "nodejs_package_manager_path": "npm"
@@ -52,7 +50,7 @@
       <recent name="C:\Users\ivand\IdeaProjects\ItAcademy\ExercicisSprint1\src\n1Exercici3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.n3exercici1.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="n1exercici1.Main" />
       <module name="ExercicisSprint1" />
@@ -107,10 +105,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.n1exercici2.Main" />
         <item itemvalue="Application.n3exercici1.Main" />
         <item itemvalue="Application.n2exercici1.Main" />
-        <item itemvalue="Application.n1exercici2.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +120,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683155600812</updated>
-      <workItem from="1683155602723" duration="39701000" />
+      <workItem from="1683155602723" duration="42805000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1683393133791</created>
@@ -180,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683525350945</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Exercici 1 del nivell 3 fet segona part: calcular puntuació i preu">
+      <created>1683747854351</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683747854351</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,7 +211,8 @@
     <MESSAGE value="Exercici 3 modificat el nom del package" />
     <MESSAGE value="Exercici 1 del nivell 2 fet" />
     <MESSAGE value="Exercici 1 del nivell 3 fet una part" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercici 1 del nivell 3 fet una part" />
+    <MESSAGE value="Exercici 1 del nivell 3 fet segona part: calcular puntuació i preu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercici 1 del nivell 3 fet segona part: calcular puntuació i preu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

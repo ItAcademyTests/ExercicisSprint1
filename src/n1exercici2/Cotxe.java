@@ -4,10 +4,11 @@ public class Cotxe {
 
     private static final String MARCA = "SEAT";
     private static String model;
-    private final int potencia = 150;
+    private int potencia;
 
-    public Cotxe(String model) {
+    public Cotxe(String model, int potencia) {
         this.model = model;
+        this.potencia = potencia;
     }
 
     public static void frenar() {
