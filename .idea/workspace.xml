@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3abd3bcd-9de8-4e4b-b893-4fb8fb53384e" name="Changes" comment="Exercici 1 del nivell 3 fet segona part: calcular puntuació i preu">
+    <list default="true" id="3abd3bcd-9de8-4e4b-b893-4fb8fb53384e" name="Changes" comment="Actualització de la potència">
+      <change afterPath="$PROJECT_DIR$/src/n3exercici1/NoticiaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n3exercici1/enums/EPreuBasquet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n3exercici1/enums/EPreuF1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n3exercici1/enums/EPreuFutbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n3exercici1/enums/EPreuMotociclisme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n3exercici1/enums/EPreuTenis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n3exercici1/enums/EPuntuacionsBasquet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n3exercici1/enums/EPuntuacionsF1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n3exercici1/enums/EPuntuacionsFutbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n3exercici1/enums/EPuntuacionsMotociclisme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n3exercici1/enums/EPuntuacionsTenis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n3exercici1/enums/TipusNoticia.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/n1exercici2/Cotxe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n1exercici2/Cotxe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/n1exercici2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n1exercici2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/n3exercici1/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n3exercici1/AssignacioPunts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n3exercici1/Basquet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n3exercici1/NoticiaBasquet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n3exercici1/F1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n3exercici1/NoticiaF1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n3exercici1/Futbol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n3exercici1/NoticiaFutbol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n3exercici1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n3exercici1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n3exercici1/Motociclisme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n3exercici1/NoticiaMotociclisme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n3exercici1/Noticia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n3exercici1/Noticia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n3exercici1/Tenis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n3exercici1/NoticiaTenis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +60,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="n3exercici1.enums" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ivand\IdeaProjects\ItAcademy\ExercicisSprint1\src\n1Exercici3" />
     </key>
@@ -50,7 +70,7 @@
       <recent name="C:\Users\ivand\IdeaProjects\ItAcademy\ExercicisSprint1\src\n1Exercici3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.n3exercici1.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="n1exercici1.Main" />
       <module name="ExercicisSprint1" />
@@ -105,9 +125,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.n3exercici1.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.n1exercici2.Main" />
-        <item itemvalue="Application.n3exercici1.Main" />
         <item itemvalue="Application.n2exercici1.Main" />
       </list>
     </recent_temporary>
@@ -120,7 +140,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683155600812</updated>
-      <workItem from="1683155602723" duration="42805000" />
+      <workItem from="1683155602723" duration="59673000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1683393133791</created>
@@ -185,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683747854351</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Actualització de la potència">
+      <created>1683991619662</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683991619662</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,15 +239,16 @@
     <MESSAGE value="Exercici 1 del nivell 2 fet" />
     <MESSAGE value="Exercici 1 del nivell 3 fet una part" />
     <MESSAGE value="Exercici 1 del nivell 3 fet segona part: calcular puntuació i preu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercici 1 del nivell 3 fet segona part: calcular puntuació i preu" />
+    <MESSAGE value="Actualització de la potència" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualització de la potència" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/n3exercici1/Main.java</url>
-          <line>134</line>
-          <option name="timeStamp" value="7" />
+          <url>file://$PROJECT_DIR$/src/n3exercici1/NoticiaService.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
