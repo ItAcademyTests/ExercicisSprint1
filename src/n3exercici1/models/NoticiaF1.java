@@ -1,7 +1,4 @@
-package n3exercici1;
-
-import java.util.HashMap;
-import java.util.Map;
+package n3exercici1.models;
 
 public class NoticiaF1 extends Noticia {
 

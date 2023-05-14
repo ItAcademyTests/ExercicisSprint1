@@ -1,7 +1,10 @@
 package n3exercici1;
 
-import n3exercici1.enums.EPuntuacionsFutbol;
-import n3exercici1.enums.TipusNoticia;
+import n3exercici1.models.Noticia;
+import n3exercici1.models.NoticiaFutbol;
+import n3exercici1.models.Redaccio;
+import n3exercici1.models.Redactor;
+import n3exercici1.service.NoticiaService;
 
 import java.util.Scanner;
 
@@ -47,7 +50,6 @@ public class Main {
                     calcularPuntuacioNotica("Futbol", new NoticiaFutbol("El nuevo gol de Benzema", "Texto noticia", "Lliga de campions", "Barça", "Ferran Torres"));
                     break;
                 case 7:
-                    //calcularPreuNoticia("Futbol", "Ferran Torres", "Barça", "Lliga de campions", "", "");
                     calcularPreuNoticia("Futbol", new NoticiaFutbol("El nuevo gol de Benzema", "Texto noticia", "Lliga de campions", "Barça", "Ferran Torres"));
                     break;
                 case 8:

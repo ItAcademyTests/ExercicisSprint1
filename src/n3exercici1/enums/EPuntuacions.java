@@ -1,4 +1,4 @@
-package n3exercici1;
+package n3exercici1.enums;
 
 public enum EPuntuacions {
 
@@ -35,12 +35,8 @@ public enum EPuntuacions {
 
     private int punts;
 
-    private EPuntuacions(int punts) {
+    EPuntuacions(int punts) {
         this.punts = punts;
-    }
-
-    public int getPunts() {
-        return punts;
     }
 
 }

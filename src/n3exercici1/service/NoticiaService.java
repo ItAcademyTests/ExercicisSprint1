@@ -1,6 +1,7 @@
-package n3exercici1;
+package n3exercici1.service;
 
 import n3exercici1.enums.*;
+import n3exercici1.models.*;
 
 public class NoticiaService {
 

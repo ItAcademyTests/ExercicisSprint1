@@ -1,4 +1,4 @@
-package n3exercici1;
+package n3exercici1.models;
 
 import java.util.ArrayList ;
 import java.util.List;
